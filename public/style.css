@@ -1,0 +1,25 @@
+.including:before, .including:after {
+    content: " ";
+    display: table;
+}
+
+.including:after {
+    clear: both;
+}
+
+.including:before, .including:after {
+    content: " ";
+    display: table;
+}
+
+.including:after {
+    clear: both;
+}
+
+#div-add {
+    margin: 20px 0;
+}
+
+.btn-add {
+    margin-top: 20px;
+}
